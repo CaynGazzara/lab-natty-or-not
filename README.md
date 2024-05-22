@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Estudo das IAs e seus mercados
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um projeto catalogando os mercados e ias conhecidas nele
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+-python, sql
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Apos a aula e exemplos cheguei na ideia
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultados promissores e que deixam claro os resultados 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
